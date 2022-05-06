@@ -1,0 +1,20 @@
+<hr> <p class="navigationSite">  <a routerLink="/home"> Головна </a>   &#10148;
+  <a routerLink="/bag"> Корзина </a></p><hr>
+<div class="bagItemConteiner">
+  <table class="bagitemBox">
+    <tr>
+      <th class="bagItemName">ПРОДУКТ</th>
+      <th class="bagItemPrice"> ЦІНА</th>
+      <th class="bagItemH">КІЛЬКІСТЬ</th>
+      <th class="bagItemSumm">СУММА</th>
+    </tr>
+    <tr class="listitembag" *ngFor="let items of item">
+      <th  class="bagItemName">{{items.name}}</th>
+      <th  class="bagItemPrice">{{items.price}}</th>
+      <th  class="bagItemH"> <span class="deleteiteminbag"> &#x2212; </span> <span> 2</span>  <span class="additeminbag">&#x2B;</span></th>
+      <th  class="bagItemSumm"> сумма  <span class="deletebagitem"> &#10005;</span> </th>
+    </tr>
+  </table>
+  <p> <span> кс-ть </span> <span> сумма </span> </p>
+  <button> оформати замовлення </button>
+</div>

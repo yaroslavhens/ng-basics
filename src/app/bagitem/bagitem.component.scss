@@ -1,0 +1,46 @@
+.navigationSite a {
+  padding: 10px;
+  text-decoration: none;
+  color: slategrey;
+  font-size: 15px;
+  font-weight: bold;
+}
+.navigationSite {
+  margin-left: 2%;
+  width: 100%;
+}
+.table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th {
+  text-align: left;
+  padding: 7px;
+
+}
+.bagitemBox {
+  padding-top: 50px;
+  width: 80%;
+  margin: auto;
+  color: slategrey;
+}
+.bagItemName {
+  width: 50%;
+}
+.bagItemSumm {
+  width: 20%;
+}
+.deletebagitem {
+  float: right;
+  cursor: pointer;
+}
+.deleteiteminbag {
+  margin-right: 10px;
+  cursor: pointer;
+}
+.additeminbag{
+  margin-left: 10px;
+  cursor: pointer;
+}
+

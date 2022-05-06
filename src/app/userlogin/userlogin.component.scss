@@ -1,0 +1,106 @@
+.head {
+  height: 50px;
+  width: 100%
+}
+.boxformadmin  {
+  margin: 0 auto;
+  border-radius: 4px;
+  box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.2);
+  width: 50%;
+  height: 70%;
+  background-color: white;
+
+}
+.textformadnin {
+  font-family: 'Roboto:700', serif;
+  margin: 0 0 0 0 ;
+  padding-top: 30px;
+  padding-left: 30px;
+  color:  #1b1c1d;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 20px;
+  text-align: left;
+}
+.text__2  {
+  width: 90%;
+  text-align: unset;
+  font-family: 'Roboto:500', serif;
+  margin: 0 0 0 0 ;
+  padding-top: 20px;
+  padding-left: 30px;
+  color:  #797b7f;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 20px;
+
+}
+.span {
+  color: red;
+  cursor:pointer;
+}
+
+.login {
+  margin-top: 20px;
+  width: 90%;
+  margin-left: 30px;
+
+}
+.name__1 , .name__2 {
+  width: 45%;
+  border-radius: 4px;
+  background-color:  #f0f0f0;
+  height: 35px;
+  padding-left: 10px;
+  border-style: none;
+  cursor: pointer;
+
+}
+.name__1 {
+  float: left;
+}
+.name__2 {
+  float: right;
+}
+.email__adr, .password {
+  clear: both;
+  width: 98%;
+  border-radius: 4px;
+  background-color:  #f0f0f0;
+  height: 35px;
+  padding-left: 10px;
+  border-style: none;
+  cursor: pointer;
+  margin-top:15px;
+}
+.button__1 {
+  width: 100%;
+  border-radius: 4px;
+  height: 45px;
+  padding-left: 10px;
+  border-style: none;
+  cursor: pointer;
+  margin-top:15px;
+  color: white;
+  background-color:  black;
+
+
+}
+b {
+  color:  #ffffff;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 20px;
+  text-align: left;
+}
+.lasttextformadmin {
+  text-align: unset;
+  padding: 0px 30px 30px 30px;
+  font-size: 18px;
+  margin-bottom: 40px;
+  color: red;
+
+}
+.logformadmin {
+  margin-top: 40px;
+}

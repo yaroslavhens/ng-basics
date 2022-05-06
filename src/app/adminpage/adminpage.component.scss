@@ -1,0 +1,120 @@
+.inputItemBox {
+  width: 35%;
+  display: inline-block;
+}
+
+.adminpage {
+  margin: auto;
+  width: 100%;
+  text-align: center;
+  font-size: 30px;
+}
+.outLoadAdminpage {
+  width: 10%;
+  margin-left: 40px;
+  border-radius: 4px;
+  height: 35px;
+  padding-left: 10px;
+  border-style: none;
+  cursor: pointer;
+  margin-top:15px;
+  color: white;
+  background-color:  brown;
+
+}
+.inputitem
+{
+  clear: both;
+  width:80%;
+  border-radius: 4px;
+  background-color:  #f0f0f0;
+  height: 35px;
+  padding-left: 10px;
+  border-style: none;
+  margin:4x;
+  margin-left: 10%;
+}
+.loadFoto {
+  margin-left: 20px;
+  border-radius: 4px;
+  height: 35px;
+  padding-left: 10px;
+  border-style: none;
+  cursor: pointer;
+  margin-top:15px;
+  color: white;
+  background-color:  black;
+
+}
+.button__1 {
+  width: 30%;
+  border-radius: 4px;
+  height: 45px;
+  padding-left: 10px;
+  border-style: none;
+  cursor: pointer;
+  margin-top:15px;
+  color: white;
+  background-color:  black;
+}
+.textone {
+  width: 100px;
+  margin: 1px;
+}
+
+.mg {
+  width: 400px;
+}
+.adminItemListbox {
+  width: 60%;
+  float: right;
+  margin-left: 20px;
+
+}
+.itembox {
+  overflow: auto;
+  height:480px;
+}
+.adminItemList {
+  display: inline-block;
+  list-style-type: none;
+  text-align: left;
+  margin: 1px;
+  padding:10px;
+  border-radius: 4px;
+  color: black;
+}
+.itemlist {
+  background-color: lightblue;
+}
+.inputItemImage {
+  width:50%;
+}
+.adminItemListimage {
+
+  width: 50px;
+  margin-top: 10px;
+}
+
+.searchItem {
+  width:40%;
+  border-radius: 4px;
+  background-color:  #f0f0f0;
+  height: 35px;
+  padding-left: 10px;
+  border-style: none;
+  margin:4x;
+  margin-left: 0.5%;
+}
+.in {
+  width: 100%;
+  text-align: center;
+  background-color: deepskyblue;
+  margin-top: 20px;
+}
+.buttonAdd {
+  margin-left: 20px;
+}
+.buttonDelete {
+  float: right;
+}

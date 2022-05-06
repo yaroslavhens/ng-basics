@@ -1,0 +1,43 @@
+<div class="adminpage">
+  <p>
+ Hello Руслан. Вхід в систему адмін виконано. <button class="outLoadAdminpage" name="submit" > out log </button>
+  </p>
+</div>
+<div class="inputItemBox">
+    <p>  <input class="inputitem inputItemID"  type="text"  required placeholder="товар - ID"></p>
+    <p> <input class=" inputitem inputItemArtucl"  type="text"    required placeholder="товар - Aртикул" [(ngModel)]="itemArtucl"></p>
+    <p> <input class="inputitem inputItemName" type="text"  required placeholder="товар - NAME"  [(ngModel)]="itemName"> </p>
+    <p> <input class="inputitem inputItemImage"  type="text"  required placeholder="товар - IMAGE" [(ngModel)]="itemImage">  <button class="loadFoto" name="submit" > load foto </button> </p>
+    <p> <input class="inputitem inputItemWeight"   type="text"  required placeholder="товар - Weight" [(ngModel)]="itemWeight"> </p>
+    <p> <input class="inputitem inputItemPrice"  type="text" required placeholder="товар - Price" [(ngModel)]="itemPrice" > </p>
+    <p> <input class="inputitem inputItemAvailability"  type="text"  required placeholder="товар - Availability" [(ngModel)]="itemAvail"> </p>
+    <p> <input class="inputitem inputItemProducent"  type="text"  required placeholder="товар - Country" [(ngModel)]="itemProducent"> </p>
+    <p> <input class=" inputitem inputIteminfo"   type="text" required placeholder="товар - INFO" [(ngModel)]="itemInfo" > </p>
+    <button  class="button__1 buttonDelete" name="submit" (click)="additem()" > <h4> Добaвити товар </h4></button>
+</div>
+<div class="adminItemListbox">
+  <p><input class="searchItem"  type="text"  required placeholder="Search" [(ngModel)]="itemSearch"></p>
+  <div class="itembox">
+  <p class="itemlist" *ngFor="let items of item | filterItem:itemSearch" >
+  <li class="adminItemList"> {{items.id}}</li>
+  <li class="adminItemList"> {{items.artucl}} </li><img class="adminItemListimage" src="{{items.image}}">
+  <li class="adminItemList"> {{items.name}}</li>
+  <li class="adminItemList"> {{items.weight}} </li>
+  <li class="adminItemList"> {{items.price}} UAN </li>
+  <li class="adminItemList"></li>
+  <li class="adminItemList"> {{items.producent}}</li>
+  <button  name="submit buttonAdd" (click)="deleteitem(items)"> видалити </button>
+  </p>
+</div>
+</div>
+<div class="in">  block об відрізати флоат </div>
+<form method="post" enctype="/img">
+  <div>
+    <label for="profile_pic">Choose file to upload</label>
+    <input type="file" id="profile_pic" name="profile_pic"
+           accept=".jpg, .jpeg, .png">
+  </div>
+  <div>
+    <button>Submit</button>
+  </div>
+</form>

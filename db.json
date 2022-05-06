@@ -1,0 +1,123 @@
+{
+  "item": [
+    {
+      "id": "2",
+      "artucl": "прот",
+      "name": "Креатин BioTech 100% Creatine Monohydrate",
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRgVaxyKWb6-EAfF4vwfSybz253gPiOOGdNMMyrEsyYwB710poiZPwjO0BzvNr7WpDHOiEMCvbxSA&usqp=CAc",
+      "weight": "300 грам",
+      "price": "1550",
+      "availability": "в наявності",
+      "producent": "USA",
+      "info": "Creatine Powder фірми Optimum Nutrition містить 100% чистий моногідрат креатину і має неперевершену якість і результативність. Кожна порція Creatine Powder включає 5,000 мг (5г.) чистого, фірмового Creapure ® креатину моногідрату. Запатентований метод виробництва, який застосовується для виробництва цього креатину, дозволяє виготовляти порошок креатину, який не має смаку і запаху, легко розчинний у воді або соку, не осідає на дні після розчинення."
+    },
+    {
+      "id": "2",
+      "artucl": "100112",
+      "name": "Аминокислотный комплекс BCAA 1000, большая упаковка, 1 г, Optimum Nutrition, 60 капсул",
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQS4jnuBeur0x-sm_x91Ih_oWzrUhaYKpbGci8zETCfkga0-TbhFMm3JTI7lJGvLU0fFkUbd-B_ie1m&usqp=CAc",
+      "weight": "300 грам",
+      "price": "1550",
+      "availability": "в наявності",
+      "producent": "USA",
+      "info": "Creatine Powder фірми Optimum Nutrition містить 100% чистий моногідрат креатину і має неперевершену якість і результативність. Кожна порція Creatine Powder включає 5,000 мг (5г.) чистого, фірмового Creapure ® креатину моногідрату. Запатентований метод виробництва, який застосовується для виробництва цього креатину, дозволяє виготовляти порошок креатину, який не має смаку і запаху, легко розчинний у воді або соку, не осідає на дні після розчинення."
+    },
+    {
+      "id": "2",
+      "artucl": "прот",
+      "name": "Xtend BCAA - Scivation",
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRyVVHUbPA6Al8fqCA_RygN1g31ljVLFXXAIFsLQPSjAUhGdOAhv1d4OiSD67SbOosH2Sx3mByOnEA&usqp=CAc",
+      "weight": "300 грам",
+      "price": "1550",
+      "availability": "в наявності",
+      "producent": "USA",
+      "info": "Creatine Powder фірми Optimum Nutrition містить 100% чистий моногідрат креатину і має неперевершену якість і результативність. Кожна порція Creatine Powder включає 5,000 мг (5г.) чистого, фірмового Creapure ® креатину моногідрату. Запатентований метод виробництва, який застосовується для виробництва цього креатину, дозволяє виготовляти порошок креатину, який не має смаку і запаху, легко розчинний у воді або соку, не осідає на дні після розчинення."
+    },
+    {
+      "id": "2",
+      "artucl": "001",
+      "name": "Креатин BioTech 100% Creatine Monohydrate",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTjVQqvotQAypPBRBWksbl84dahVZ4_ujl3A&usqp=CAU",
+      "weight": "300 грам",
+      "price": "1550",
+      "availability": "в наявності",
+      "producent": "USA",
+      "info": "Creatine Powder фірми Optimum Nutrition містить 100% чистий моногідрат креатину і має неперевершену якість і результативність. Кожна порція Creatine Powder включає 5,000 мг (5г.) чистого, фірмового Creapure ® креатину моногідрату. Запатентований метод виробництва, який застосовується для виробництва цього креатину, дозволяє виготовляти порошок креатину, який не має смаку і запаху, легко розчинний у воді або соку, не осідає на дні після розчинення."
+    },
+    {
+      "id": "3",
+      "artucl": "100113",
+      "name": "Креатин BioTech 100% Creatine Monohydrate",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQva4brIy_3D08c26_ZtDXhekL5ylRQKMwTApK7oSgROxKl9oH6PsB-I4RfHMaigAsNm_w&usqp=CAU",
+      "weight": "300 грам",
+      "price": "600",
+      "availability": "в наявності",
+      "producent": "Poland",
+      "info": "BioTech 100% Creatine Monohydrate - №1 в силових видах спорту!"
+    },
+    {
+      "id": "lJmuhig",
+      "artucl": "",
+      "name": "",
+      "image": "",
+      "weight": "",
+      "price": "",
+      "availability": "",
+      "producent": "",
+      "info": ""
+    }
+  ],
+  "log": {
+    "mail": "admin@mail.com",
+    "password": "gplmh4yjxtq"
+  },
+  "login": [
+    {
+      "id": "1",
+      "name": "name",
+      "password": "12344546"
+    },
+    {
+      "id": "-77LN5w",
+      "name": "asdasdasd",
+      "password": "12344546"
+    },
+    {
+      "id": "PQN9ZYs",
+      "name": "Admin@gmail.com",
+      "password": "12344546"
+    },
+    {
+      "id": "TPuzV84",
+      "name": "username@gmail.com",
+      "password": "12344546"
+    },
+    {
+      "id": "Iumisi4",
+      "name": "main@gmail.com",
+      "password": "12344546"
+    },
+    {
+      "id": "DOQIhV-",
+      "artucl": "",
+      "name": "",
+      "image": "",
+      "weight": "",
+      "price": "",
+      "availability": "",
+      "producent": "",
+      "info": ""
+    },
+    {
+      "id": "SW2fMKf",
+      "artucl": "",
+      "name": "",
+      "image": "",
+      "weight": "",
+      "price": "",
+      "availability": "",
+      "producent": "",
+      "info": ""
+    }
+  ]
+}

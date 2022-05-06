@@ -1,0 +1,22 @@
+<div class="mainBug">
+<div class="product">
+
+  <p><input class="searchItem"  type="text"  required placeholder="Search" [(ngModel)]="itemSearch"></p>
+  <h1> Каталог товарів </h1>
+  <li class="productWindow" *ngFor="let items of it | filterItem:itemSearch" >
+      <div class="productItem">
+      <span class="productItemImage">
+        <img src="{{items.image}}">
+       </span>
+      <span class="productItemDescript">
+        <p><a [routerLink]="['/home', items.id,items.image,items.name,items.artucl,items.info]" >{{items.name}} {{items.weight}}</a></p>
+        <p> {{items.producent}}</p>
+        <p> {{items.price}} UAH  <button class="buttonAddBug"> Придбати </button>   </p>
+      </span>
+      </div>
+    </li>
+</div>
+</div>
+<div class="somethin">
+   фільтер товару
+</div>
